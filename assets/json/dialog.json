@@ -6,12 +6,29 @@
 			"newSpeaker" : "true"
 		},
 		{
+			"speaker" : "minerva",
+			"dialog" : "screw you homer",
+			"newSpeaker": "true"
+		},
+		{
 			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "naruto",
+			"dialog" : "reddit is bad",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "homer",
+			"dialog" : "that is true",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "homer",
-			"dialog" : "Moreover he suffered much by sea while trying to save his own life and bring his men safely home."
+			"dialog" : "Moreover he suffered much by sea while trying to save his own life and bring his men safely home.",
+			"newSpeaker": "true"
 		},
 		{	
 			"speaker" : "homer",
